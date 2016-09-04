@@ -2,6 +2,8 @@
 Xamarin Forms iOS, Android and UWP OAuth to Google using Xamarin.Auth and UWP WebAuthenticationBroker
 
 You'll need to fill your Google Callback URL, Client ID and Secret from the [Google Console](https://console.developers.google.com) in [Constants.cs](XamFormsUWPOAuth.Shared/Constants.cs)
+<img src="/images/googleConsole.png" width="600">
+
 
 There are not many Xamarin Forms OAuth examples for UWP - my intention is to address this with this example.
 
