@@ -5,9 +5,9 @@ You'll need to fill your Google Callback URL, Client ID and Secret from the [Goo
 <img src="/images/googleConsole.png" width="600">
 
 
-There are not many Xamarin Forms OAuth examples for UWP - my intention is to address this with this example.
+There are not many Xamarin Forms OAuth examples for UWP - my intention is to address that with this simple example.
 
-The Authenticates with Google and then displays your email address and photo, like this:
+The example authenticates with Google and then displays your email address and photo, like this:
 
 *UWP*
 
